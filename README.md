@@ -37,7 +37,7 @@ Motivated to grow as a fundamentals-driven engineer through consistent learning 
 ## 🧩 LeetCode Achievements
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dhanushrajg/dhanushrajg/main/leetcode-badge.png" width="130"/>
+  <img src="https://raw.githubusercontent.com/dhanushrajg/dhanushrajg/main/download.png" width="130"/>
 </p>
 
 <p align="center">
